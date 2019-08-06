@@ -1,1 +1,2 @@
-# CR_Manga_Reader
+# CR Manga Reader
+
